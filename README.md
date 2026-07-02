@@ -17,12 +17,12 @@
 
 <p align="center">
 <b>Page 2 – Career Progression & Employee Experience</b><br><br>
-<img src="https://github.com/user-attachments/assets/464e4418-49cc-4fd6-be4f-0c184f7e35f9" width="850">
+<img width="1132" height="682" alt="hr2" src="https://github.com/user-attachments/assets/ca59a1a7-1060-4591-b26c-f79d8727c716" />
 </p>
 
 <p align="center">
 <b>Page 3 – Attrition Drivers & Workforce Risk Assessment</b><br><br>
-<img src="https://github.com/user-attachments/assets/7a79823f-b3ce-4a62-89e7-8127105cd3d0" width="850">
+<img width="1097" height="675" alt="hr3" src="https://github.com/user-attachments/assets/cc750ef7-b4d4-4a18-9520-9a1ea5f7f2a9" />
 </p>
 
 
@@ -160,30 +160,32 @@ Analyzes employee development, learning, and workplace experience.
 ---
 
 #### Job Satisfaction vs Attrition
+
 **Purpose**
-- Examine the relationship between job satisfaction and employee turnover.
+- Assess how employee job satisfaction relates to attrition.
 
 **Insight**
-- Employees reporting higher job satisfaction levels exhibit comparatively lower attrition.
+- Attrition declines from **22.84%** among employees with the lowest job satisfaction to **11.33%** among those with the highest satisfaction, indicating a strong relationship between satisfaction and retention.
 
 ---
 
 #### Work-Life Balance vs Attrition
+
 **Purpose**
-- Analyze the relationship between work-life balance and retention.
+- Evaluate the impact of work-life balance on employee retention.
 
 **Insight**
-- Better work-life balance is associated with improved employee retention.
+- Employees reporting the lowest work-life balance experience the highest attrition (**31.25%**), compared with **14.22%** among employees with better work-life balance.
 
 ---
 
 #### Environment Satisfaction vs Attrition
+
 **Purpose**
-- Evaluate workplace environment satisfaction.
+- Analyze the relationship between workplace environment satisfaction and employee turnover.
 
 **Insight**
-- Higher environment satisfaction corresponds with lower employee attrition, reinforcing workplace experience as an important retention factor.
-
+- Attrition decreases from **25.35%** for employees with the lowest environment satisfaction to **13.45%** for those with the highest satisfaction, highlighting the importance of a positive work environment.
 ---
 
 # Page 3: Attrition Drivers & Workforce Risk Assessment
@@ -231,15 +233,6 @@ Identifies workforce risks and factors associated with employee attrition.
 
 **Insight**
 - Most employees received promotions within the last **5 years**, while relatively few employees experienced prolonged promotion delays.
-
----
-
-#### Business Travel vs Attrition
-**Purpose**
-- Evaluate whether travel frequency relates to attrition.
-
-**Insight**
-- Employees who travel frequently exhibit comparatively higher attrition than employees who travel rarely or do not travel.
 
 ---
 
