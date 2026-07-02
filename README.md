@@ -17,14 +17,13 @@
 
 <p align="center">
 <b>Page 2 – Career Progression & Employee Experience</b><br><br>
-<img width="1132" height="682" alt="hr2" src="https://github.com/user-attachments/assets/ca59a1a7-1060-4591-b26c-f79d8727c716" />
+<img src="https://github.com/user-attachments/assets/ca59a1a7-1060-4591-b26c-f79d8727c716" width="850">
 </p>
 
 <p align="center">
 <b>Page 3 – Attrition Drivers & Workforce Risk Assessment</b><br><br>
-<img width="1097" height="675" alt="hr3" src="https://github.com/user-attachments/assets/cc750ef7-b4d4-4a18-9520-9a1ea5f7f2a9" />
+<img src="https://github.com/user-attachments/assets/cc750ef7-b4d4-4a18-9520-9a1ea5f7f2a9" width="850">
 </p>
-
 
 
 ## Project Overview
