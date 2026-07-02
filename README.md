@@ -104,10 +104,10 @@ Provides an overview of workforce composition and organizational distribution.
 
 #### Educational Profile by Job Role
 **Purpose**
-- Analyze education levels across job roles.
+- Analyze the educational background of the organization's workforce.
 
 **Insight**
-- Most job roles are dominated by employees with **Medium** and **High** education levels, reflecting a well-qualified workforce.
+- Employees from **Life Sciences (606; 41.2%) and Medical (464; 31.6%)** backgrounds account for nearly **73%** of the workforce, indicating the organization primarily employs talent from science and healthcare-related disciplines..
 
 ---
 
@@ -152,10 +152,10 @@ Analyzes employee development, learning, and workplace experience.
 
 #### Performance Rating Distribution
 **Purpose**
-- Assess employee performance levels.
+- Assess the distribution of employee performance ratings across the workforce.
 
 **Insight**
-- The majority of employees received high performance ratings, indicating consistently strong workforce performance.
+- Approximately 1.24K employees (84%) received Low performance ratings, while 0.23K employees (16%) received High performance ratings, indicating that most employees fall within the lower performance rating category.
 
 ---
 
