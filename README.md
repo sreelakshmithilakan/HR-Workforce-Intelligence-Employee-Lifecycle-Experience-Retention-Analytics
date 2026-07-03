@@ -8,29 +8,23 @@
 ![Dataset](https://img.shields.io/badge/Dataset-IBM%20HR%20Analytics-8E44AD?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Power%20BI%20%7C%20Excel-2E8B57?style=flat-square)
 
+---
+
 # Dashboard Preview
 
-<p align="center">
-<b>Page 1 – Employee Demographics & Organizational Structure</b><br><br>
-<img src="https://github.com/user-attachments/assets/a3d676c8-a54c-4b2e-ae85-1966f18f651e" width="850">
-</p>
+| Workforce Composition | Career Progression & Experience | Workforce Risk & Attrition |
+|:---------------------:|:-------------------------------:|:--------------------------:|
+| <img src="https://github.com/user-attachments/assets/64c1f6f4-d6be-4d46-8bcd-25022c40d71d" width="350"> | <img src="https://github.com/user-attachments/assets/e1c9073f-5d09-4b54-a4e8-f9666a22c97b" width="350"> | <img src="https://github.com/user-attachments/assets/36a5b0a0-67b6-48a1-9d55-5ca4668a9995" width="350"> |
 
-<p align="center">
-<b>Page 2 – Career Progression & Employee Experience</b><br><br>
-<img src="https://github.com/user-attachments/assets/ca59a1a7-1060-4591-b26c-f79d8727c716" width="850">
-</p>
+Three-page interactive Power BI dashboard covering workforce composition, employee lifecycle & experience, and attrition risk analysis.
 
-<p align="center">
-<b>Page 3 – Attrition Drivers & Workforce Risk Assessment</b><br><br>
-<img src="https://github.com/user-attachments/assets/cc750ef7-b4d4-4a18-9520-9a1ea5f7f2a9" width="850">
-</p>
-
+---
 
 ## Project Overview
 
-This project presents an end-to-end HR Workforce Intelligence dashboard developed in Power BI using the IBM HR Analytics Employee Attrition & Performance dataset. The dashboard analyzes workforce composition, employee lifecycle, employee experience, and attrition drivers to support data-driven HR decision-making.
+This project presents an end-to-end HR Workforce Intelligence dashboard developed in Power BI using the IBM HR Analytics Employee Attrition & Performance dataset. The dashboard analyzes workforce composition, career progression, employee experience, and attrition drivers to support data-driven HR decision-making.
 
-The report follows a Workforce Intelligence framework to help HR teams understand workforce trends, identify retention risks, and develop strategic workforce planning initiatives.
+The report follows a Workforce Intelligence framework that enables HR teams to understand workforce trends, identify retention risks, evaluate employee experience, and support strategic workforce planning.
 
 ---
 ## Business Objectives
@@ -50,7 +44,7 @@ This dashboard is designed to answer the following key business questions:
 - Identification of departments, income groups, and employee segments experiencing higher turnover.
 
 ### 5. Which factors are most strongly associated with employee retention?
-- Assessment of employee experience, career progression, compensation, overtime, and business travel in relation to retention.
+- Assessment of employee experience, career progression, compensation, overtime, and employee tenure in relation to retention.
 
 ### 6. How can HR leverage these insights to improve workforce planning and retention?
 - Strategic recommendations to support workforce planning, employee engagement, and long-term retention.
@@ -62,7 +56,7 @@ The report consists of three interactive dashboard pages.
 
 ## Page 1: Employee Demographics & Organizational Structure
 
-Provides an overview of workforce composition and organizational distribution.
+Provides an executive overview of workforce composition, organizational structure, and employee demographics.
 
 ### KPIs
 
@@ -88,7 +82,7 @@ Provides an overview of workforce composition and organizational distribution.
 - Compare average employee income across departments.
 
 **Insight**
-- Sales employees receive the highest average monthly income, followed by Human Resources and Research & Development.
+- Sales records the highest average monthly income, followed by Human Resources and Research & Development.
 
 ---
 
@@ -115,13 +109,13 @@ Provides an overview of workforce composition and organizational distribution.
 - Analyze the educational background of the organization's workforce.
 
 **Insight**
-- Employees from **Life Sciences (606; 41.2%) and Medical (464; 31.6%)** backgrounds account for nearly **73%** of the workforce, indicating the organization primarily employs talent from science and healthcare-related disciplines..
+- Employees from **Life Sciences (606; 41.2%) and Medical (464; 31.6%)** backgrounds account for nearly **73%** of the workforce, indicating the organization primarily employs talent from science and healthcare-related disciplines.
 
 ---
 
 # Page 2: Career Progression & Employee Experience
 
-Analyzes employee development, learning, and workplace experience.
+Analyzes employee development, career progression, learning, and workplace experience.
 
 ### KPIs
 
@@ -163,7 +157,7 @@ Analyzes employee development, learning, and workplace experience.
 - Assess the distribution of employee performance ratings across the workforce.
 
 **Insight**
-- Approximately 1.24K employees (84%) received Low performance ratings, while 0.23K employees (16%) received High performance ratings, indicating that most employees fall within the lower performance rating category.
+- Approximately 84% of employees fall within the lower performance rating category, while 16% belong to the higher performance category.
 
 ---
 
@@ -174,6 +168,16 @@ Analyzes employee development, learning, and workplace experience.
 
 **Insight**
 - Attrition declines from **22.84%** among employees with the lowest job satisfaction to **11.33%** among those with the highest satisfaction, indicating a strong relationship between satisfaction and retention.
+
+---
+
+## Dashboard Features
+
+- Three-page interactive Power BI dashboard
+- Interactive Department, Job Role, and Gender slicers
+- Cross-filtering across visuals
+- Executive KPI cards
+- Business-focused dashboard storytelling
 
 ---
 
@@ -198,7 +202,7 @@ Analyzes employee development, learning, and workplace experience.
 
 # Page 3: Attrition Drivers & Workforce Risk Assessment
 
-Identifies workforce risks and factors associated with employee attrition.
+Identifies workforce risks, attrition drivers, and opportunities to improve employee retention.
 
 ### KPIs
 
@@ -250,7 +254,7 @@ Identifies workforce risks and factors associated with employee attrition.
 - Analyze the relationship between overtime and employee turnover.
 
 **Insight**
-- Employees working overtime demonstrate noticeably higher attrition, suggesting workload may contribute to retention challenges.
+- Employees working overtime exhibit a higher proportion of attrition than employees who do not work overtime.
 
 ---
 
@@ -269,9 +273,8 @@ Identifies workforce risks and factors associated with employee attrition.
 
 - Employees remain with the organization for an average of **7.01 years**, reflecting relatively stable workforce retention.
 - Employees completed an average of **2.8 training sessions** during the previous year, demonstrating continued investment in learning and development.
-- Employees who remained with the organization averaged **11.86 years** of experience compared with **8.24 years** among employees who left.
+- New Hires experience the highest attrition rate (**36.36%**), while attrition steadily declines as employee tenure increases.
 - Lower Job Satisfaction, Work-Life Balance, and Environment Satisfaction are consistently associated with higher employee attrition.
-
 ---
 
 ## Workforce Risk & Retention
@@ -284,50 +287,47 @@ Identifies workforce risks and factors associated with employee attrition.
 ---
 # Business Recommendations
 
-Based on the analysis, the following strategic HR initiatives are recommended:
+Based on the analysis, the following strategic HR initiatives are recommended.
 
 ### 1. Prioritize Department-Specific Retention Strategies
+
 Focus retention initiatives within the Sales and Human Resources departments through targeted engagement programs, workload assessments, and career discussions.
 
 ---
 
 ### 2. Strengthen Employee Experience
 
-Regularly monitor Job Satisfaction, Work-Life Balance, and Environment Satisfaction to identify employees requiring early engagement interventions before attrition occurs.
+Regularly monitor Job Satisfaction, Work-Life Balance, and Environment Satisfaction to identify retention risks before employee turnover occurs.
 
 ---
 
-### 3. Expand Career Development Opportunities
+### 3. Strengthen Early-Career Retention
+
+Improve onboarding, mentoring, and first-year engagement initiatives, as New Hires experience the highest attrition rate (36.36%).
+
+---
+
+### 4. Expand Career Development Opportunities
 
 Strengthen internal mobility, promotion pathways, mentoring, and structured career development programs to improve long-term employee retention.
 
 ---
 
-### 4. Review Compensation Strategy
+### 5. Review Compensation Strategy
 
 Evaluate compensation competitiveness within lower income bands where employee turnover is most concentrated.
 
 ---
 
-### 5. Continue Investing in Learning & Development
+### 6. Continue Investing in Learning & Development
 
 Maintain regular employee training and capability development initiatives to support employee growth and organizational performance.
 
 ---
 
-### 6. Adopt Continuous Workforce Monitoring
+### 7. Adopt Continuous Workforce Monitoring
 
-Track workforce KPIs through interactive HR dashboards, including:
-
-- Attrition Rate
-- Retention Rate
-- Employee Experience
-- Department-wise Attrition
-- Employee Tenure
-- Promotion Trends
-- Workforce Composition
-
-to enable proactive, data-driven HR decision-making.
+Track key workforce KPIs including Attrition Rate, Retention Rate, Employee Experience, Department-wise Attrition, Employee Tenure, Promotion Trends, and Workforce Composition to enable proactive, data-driven HR decision-making.
 
 ---
 
@@ -338,7 +338,7 @@ The dashboard follows a Workforce Intelligence approach:
 **Workforce Composition**
 → **Employee Lifecycle & Experience**
 → **Workforce Risk Assessment**
-→ **Retention Insights**
+→ **Strategic HR Recommendations**
 
 The analysis combines:
 
@@ -372,7 +372,9 @@ The analysis combines:
 - KPI Development
 - Executive Reporting
 - Business Storytelling
-
+- Workforce Intelligence
+- HR Reporting
+- Executive Dashboard Design
 ---
 
 # Dataset
@@ -387,9 +389,9 @@ The dataset includes employee demographics, organizational structure, compensati
 
 # Conclusion
 
-This dashboard demonstrates how HR Analytics can transform workforce data into actionable business insights. By integrating workforce composition, career progression, employee experience, and workforce risk analysis into a single reporting solution, the dashboard enables HR teams to monitor workforce health, identify retention challenges, and support strategic decision-making.
+This dashboard demonstrates how HR Analytics transforms employee data into actionable workforce intelligence. By integrating workforce composition, career progression, employee experience, and workforce risk analysis into a single reporting solution, the dashboard enables HR teams to identify retention challenges, prioritize strategic initiatives, and support evidence-based workforce planning.
 
-The analysis highlights the importance of employee experience, career development, and targeted retention initiatives in improving long-term workforce stability. These insights provide a foundation for evidence-based HR planning and continuous workforce improvement.
+The project demonstrates how descriptive and diagnostic analytics can be combined to deliver meaningful business insights that improve employee experience, strengthen retention strategies, and support informed HR decision-making.
 
 ---
 
